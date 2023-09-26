@@ -11,7 +11,7 @@ typst compile main.pdf
 ## Temario
 
 1. Bonus: Input Output
-   - [ ] 1.1. scanf y printf
+   - [x] 1.1. scanf y printf
 
 2. Data Structures
    - [ ] 2.1. Segment Tree
@@ -19,7 +19,7 @@ typst compile main.pdf
    - [ ] 2.3. Fenwick Tree
 
 3. Dynamic Programming
-   - [ ] 3.1. Longest Increasing Subsequence
+   - [x] 3.1. Longest Increasing Subsequence
 
 4. Geometry
    - [ ] 4.1. Angle
